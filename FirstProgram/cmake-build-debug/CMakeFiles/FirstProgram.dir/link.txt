@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/FirstProgram.dir/main.c.o  -o FirstProgram 
