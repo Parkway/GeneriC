@@ -12,7 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a319cd6-9e46-43e1-8c92-01b93ae5c811" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../While/main.c" afterPath="$PROJECT_DIR$/../While/main.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FirstProgram/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../FirstProgram/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FirstProgram/main.c" afterPath="$PROJECT_DIR$/../FirstProgram/main.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../While/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../While/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -327,12 +330,12 @@
       <updated>1494556382446</updated>
       <workItem from="1494556389337" duration="1407000" />
       <workItem from="1494558042692" duration="44000" />
-      <workItem from="1494558136099" duration="104000" />
+      <workItem from="1494558136099" duration="289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1555000" />
+    <option name="totallyTimeSpent" value="1740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
