@@ -1,0 +1,3 @@
+/home/parkway/CLionProjects/GeneriC/While/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/parkway/CLionProjects/GeneriC/While/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parkway/CLionProjects/GeneriC/While/cmake-build-debug/CMakeFiles/While.dir
