@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/IfElse.dir/main.c.o  -o IfElse 
