@@ -324,7 +324,7 @@
       <workItem from="1494526270578" duration="75000" />
       <workItem from="1494526624536" duration="1783000" />
       <workItem from="1494557804738" duration="233000" />
-      <workItem from="1494558089190" duration="60000" />
+      <workItem from="1494558089190" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="Made a repo for C. Cill me.">
       <created>1494557842550</created>
@@ -337,7 +337,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2194000" />
+    <option name="totallyTimeSpent" value="2284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />

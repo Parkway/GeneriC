@@ -12,15 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a319cd6-9e46-43e1-8c92-01b93ae5c811" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstProgram/cmake-build-debug/CMakeFiles/FirstProgram.dir/main.c.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstProgram/cmake-build-debug/FirstProgram" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstProgram/cmake-build-debug/CMakeFiles/FirstProgram.dir/C.includecache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstProgram/cmake-build-debug/CMakeFiles/FirstProgram.dir/depend.internal" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FirstProgram/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../FirstProgram/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FirstProgram/cmake-build-debug/CMakeFiles/FirstProgram.dir/depend.make" afterPath="$PROJECT_DIR$/../FirstProgram/cmake-build-debug/CMakeFiles/FirstProgram.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FirstProgram/main.c" afterPath="$PROJECT_DIR$/../FirstProgram/main.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.c" afterPath="$PROJECT_DIR$/main.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../While/main.c" afterPath="$PROJECT_DIR$/../While/main.c" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -335,12 +327,12 @@
       <updated>1494556382446</updated>
       <workItem from="1494556389337" duration="1407000" />
       <workItem from="1494558042692" duration="44000" />
-      <workItem from="1494558136099" duration="13000" />
+      <workItem from="1494558136099" duration="104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1464000" />
+    <option name="totallyTimeSpent" value="1555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -377,7 +369,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="IfElse class plus user input!" />
     <MESSAGE value="Comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comments" />
+    <MESSAGE value="Git is harder." />
+    <option name="LAST_COMMIT_MESSAGE" value="Git is harder." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

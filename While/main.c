@@ -11,6 +11,6 @@ int main() {
         }
         rocketShip--;
     }
-    //Comment
+    //Kill class
     return 0;
 }
