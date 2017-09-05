@@ -1,3 +1,3 @@
-/home/parkway/CLionProjects/GeneriC/Switch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/parkway/CLionProjects/GeneriC/Switch/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/parkway/CLionProjects/GeneriC/Switch/cmake-build-debug/CMakeFiles/Switch.dir
+C:/Users/Lance Douglas/CLionProjects/GeneriC/Switch/cmake-build-debug/CMakeFiles/Switch.dir
+C:/Users/Lance Douglas/CLionProjects/GeneriC/Switch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lance Douglas/CLionProjects/GeneriC/Switch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

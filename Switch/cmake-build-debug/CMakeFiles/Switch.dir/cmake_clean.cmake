@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Switch.dir/main.c.o"
+  "CMakeFiles/Switch.dir/main.c.obj"
   "Switch.pdb"
-  "Switch"
+  "Switch.exe"
+  "Switch.exe.manifest"
+  "libSwitch.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

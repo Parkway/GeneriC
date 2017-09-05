@@ -2,15 +2,16 @@
 
 int main() {
     int num;
-    printf("Enter number: ");
+    printf("Enter number:\n");
     scanf("%d", num);
 
-    switch (num) {
-        case 25:
-            printf("Num was 25.");
-            break;
+    switch (num % 2) {
+        case 0:
+            printf("Number is odd.");
+        case 1:
+            printf("Number is even.");
         default:
-            printf("Num was not 25.");
+            printf("Number is even.");
             break;
     }
     return 0;

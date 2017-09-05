@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\VCSTest.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\VCSTest.dir/objects.a @CMakeFiles\VCSTest.dir\objects1.rsp
+D:\MinGW\bin\gcc.exe  -g   -Wl,--whole-archive CMakeFiles\VCSTest.dir/objects.a -Wl,--no-whole-archive  -o VCSTest.exe -Wl,--out-implib,libVCSTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\VCSTest.dir\linklibs.rsp
