@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FirstProgram.dir/main.c.o"
+  "CMakeFiles/FirstProgram.dir/main.c.obj"
   "FirstProgram.pdb"
-  "FirstProgram"
+  "FirstProgram.exe"
+  "FirstProgram.exe.manifest"
+  "libFirstProgram.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

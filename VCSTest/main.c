@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    printf("This was just a test program to make sure Git worked on my new machine.\n"
-                   "Please ignore.");
+    int num1, num2;
+    printf("Please enter two numbers: ");
+    scanf("%d %d", num1, num2);
+    int num3 = num1 + num2;
+    printf("%d + %d is: " + num3);
     return 0;
 }
