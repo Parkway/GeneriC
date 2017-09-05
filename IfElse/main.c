@@ -3,15 +3,14 @@
 int main() {
     int num;
 
+    //Just an example of odd or even if else.
     printf("Enter a number: ");
     scanf("%d", &num);
 
-    if (num < 25) {
-        printf("Num was less than 25.");
-    } else if (num > 25){
-        printf("Num is more than 25.");
+    if (num % 2) {
+        printf("Number is odd.");
     } else {
-        printf("Num is 25");
+        printf("Number is even.");
     }
     //Close program I think
     return 0;

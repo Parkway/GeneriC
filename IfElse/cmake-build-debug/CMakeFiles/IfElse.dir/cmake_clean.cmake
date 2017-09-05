@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/IfElse.dir/main.c.o"
+  "CMakeFiles/IfElse.dir/main.c.obj"
   "IfElse.pdb"
-  "IfElse"
+  "IfElse.exe"
+  "IfElse.exe.manifest"
+  "libIfElse.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
