@@ -12,6 +12,6 @@ int main() {
     } else {
         printf("Number is even.");
     }
-    //Close program I think
+
     return 0;
 }
