@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/While.dir/main.c.o"
+  "CMakeFiles/While.dir/main.c.obj"
   "While.pdb"
-  "While"
+  "While.exe"
+  "While.exe.manifest"
+  "libWhile.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

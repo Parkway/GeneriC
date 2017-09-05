@@ -1,1 +1,3 @@
-/usr/bin/cc  -g   CMakeFiles/While.dir/main.c.o  -o While 
+"C:\Program Files\JetBrains\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\While.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\While.dir/objects.a @CMakeFiles\While.dir\objects1.rsp
+D:\MinGW\bin\gcc.exe  -g   -Wl,--whole-archive CMakeFiles\While.dir/objects.a -Wl,--no-whole-archive  -o While.exe -Wl,--out-implib,libWhile.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\While.dir\linklibs.rsp
