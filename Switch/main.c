@@ -18,5 +18,6 @@ int main() {
             printf("Number is even.");
             break;
     }
+
     return 0;
 }
