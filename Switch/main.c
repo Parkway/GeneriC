@@ -2,7 +2,7 @@
 /*
  * Everything in this program is broken and nonfunctional.
  * I don't know why.
- * Sorry.
+ * Sorry. :$
  */
 int main() {
     int num;
