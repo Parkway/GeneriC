@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/*
+ * Everything in this program is broken and nonfunctional.
+ * I don't know why.
+ * Sorry.
+ */
 int main() {
     int num;
     printf("Enter number:\n");

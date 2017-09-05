@@ -11,11 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a319cd6-9e46-43e1-8c92-01b93ae5c811" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../WindowsC" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.c" afterPath="$PROJECT_DIR$/main.c" />
-    </list>
+    <list default="true" id="3a319cd6-9e46-43e1-8c92-01b93ae5c811" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -333,7 +329,7 @@
       <workItem from="1494558136099" duration="289000" />
       <workItem from="1504630015418" duration="273000" />
       <workItem from="1504635140535" duration="189000" />
-      <workItem from="1504635359555" duration="15000" />
+      <workItem from="1504635359555" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="Odd or even program. wow.">
       <created>1504630267633</created>
@@ -342,11 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504630267633</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removing unnecessary whitespace">
+      <created>1504635385938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504635385938</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2217000" />
+    <option name="totallyTimeSpent" value="2249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -386,7 +389,8 @@
     <MESSAGE value="Git is harder." />
     <MESSAGE value="Odd or even program. wow." />
     <MESSAGE value="Finalizing IfElse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalizing IfElse" />
+    <MESSAGE value="Removing unnecessary whitespace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing unnecessary whitespace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
