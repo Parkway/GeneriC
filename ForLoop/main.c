@@ -4,7 +4,7 @@ int main( )
 {
     for (int cD = 3; cD >= 0; cD--) {
         if (cD > 0) {
-            printf("%d...\n", cD);
+            printf("%d\n", cD);
         } else {
             printf("Blast off!");
         }
