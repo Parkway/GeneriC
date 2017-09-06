@@ -9,7 +9,7 @@ int main() {
             printf("Blast Off!\n");
         }
         else {
-            printf("%d\n", rocketShip);
+            printf("%d...\n", rocketShip);
         }
         rocketShip--;
     }
