@@ -9,13 +9,15 @@
  */
 int main() {
     int num, smallest,
-        largest, spare = 3;
+        largest, spare;
     largest = INT_MIN;
     smallest = INT_MAX;
     printf("Enter three numbers. I shall "
-                   "determine the largest and smallest.\n\n");
+                   "determine the largest and smallest.\n");
+    printf("How many numbers would you like to enter?\n");
+    scanf("%d", &spare);
+    printf("Enter %d numbers:\n", spare);
     while(spare > 0) {
-        printf("Enter a number:\n");
         scanf("%d", &num);
         if (num > largest) largest = num;
         if (num < smallest) smallest = num;
