@@ -1,13 +1,8 @@
 #include <stdio.h>
-/*
- * This is merely a placeholder for GitHub
- * until I actually come up with
- * something to use for my first genuine
- * C assignment.
- */
+
 int main() {
     int num1, num2, added,
-        subbed, mult, div;
+            subbed, mult, div;
 
     printf("Please enter two numbers:\n");
     scanf("%d%d", &num1, &num2);
